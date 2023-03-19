@@ -10,8 +10,6 @@ export default function Jumbotron() {
           developing responsive, mobile-first projects on the web.
         </p>
       </div>
-      <p>This is some text.</p>
-      <p>This is another text.</p>
     </div>
   );
 }
