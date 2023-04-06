@@ -2,7 +2,7 @@ import React from "react";
 
 function Card({title, text, src}) {
   return (
-    <div className="card" style={{ width: "300px" }}>
+    <div className="card mb-4"style={{ width: "300px" }}>
       <img className="card-img-top" src={src} alt="Card image" />
       <div className="card-body text-center">
         <h4 className="card-title">{title}</h4>
